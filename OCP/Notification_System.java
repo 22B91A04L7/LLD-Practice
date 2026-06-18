@@ -41,7 +41,7 @@ class EmailNotification implements NotificationSystem {
 public class Notification_System {
     public static void main(String args[]) {
 
-        Person p1 = new Person("Venkat", "9959886566", "thevenkat886@gmail.com");
+        Person p1 = new Person("Venkat", "9952867366", "thevenkat4336@gmail.com");
         Person p2 = new Person("Veera", "9959564326", "veera24@gmail.com");
 
         NotificationSystem sms = new SMSNotification();
